@@ -108,14 +108,9 @@
 ### 📊 GitHub stats
 
 <div align="center">
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nirjondipo&theme=tokyo_night" alt="GitHub stats" />
   <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nirjondipo&theme=tokyo_night" alt="Top languages" />
   <br/>
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nirjondipo&theme=tokyo_night" alt="Most commit language" />
-  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nirjondipo&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-  <br/>
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nirjondipo&theme=tokyo_night" alt="Profile details" />
 </div>
 
 ---
