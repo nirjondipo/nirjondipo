@@ -38,7 +38,7 @@
 - SaaS architecture for multi-tenant apps
 
 ### 💬 Ask me about
-`WordPress` · `Laravel` · `Vue` / `Nuxt.js` · `Next.js` · `TypeScript` · `PHP` · `React Native` · `Flutter` · `iOS` · `Android` · page speed · staging → production workflows
+`WordPress` · `Laravel` · `Vue` / `Nuxt.js` · `Next.js` · `TypeScript` · `PHP` · `React Native` · `Flutter` · `iOS` · `Android` · `On-page SEO` · `AI GEO` · `Schema / structured data` · page speed · staging → production workflows
 
 ---
 
@@ -68,6 +68,9 @@
   <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/On--page_SEO-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="On-page SEO" />
+  <img src="https://img.shields.io/badge/AI_GEO-111111?style=for-the-badge&logo=googlegemini&logoColor=white" alt="AI GEO" />
+  <img src="https://img.shields.io/badge/Schema_%2F_structured_data-0B3D91?style=for-the-badge&logo=json&logoColor=white" alt="Schema / structured data" />
 </p>
 
 ---
