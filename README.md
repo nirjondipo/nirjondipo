@@ -38,23 +38,24 @@
 - SaaS architecture for multi-tenant apps
 
 ### 💬 Ask me about
-`WordPress` · `Vue` / `Nuxt` · `Next.js` · `TypeScript` · `PHP` · `React Native` · `Flutter` · `iOS` · `Android` · page speed · staging → production workflows
+`WordPress` · `Laravel` · `Vue` / `Nuxt.js` · `Next.js` · `TypeScript` · `PHP` · `React Native` · `Flutter` · `iOS` · `Android` · page speed · staging → production workflows
 
 ---
 
 ### 🛠️ Languages & tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,wordpress,js,ts,vue,nuxtjs,react,nextjs,flutter,apple,androidstudio,nodejs,html,css,tailwind,mysql,postgres,docker,git,github,linux" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,wordpress,js,ts,vue,nuxtjs,react,nextjs,flutter,apple,androidstudio,nodejs,html,css,tailwind,mysql,postgres,docker,git,github,linux" alt="Skills" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue" />
-  <img src="https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxt&logoColor=white" alt="Nuxt" />
+  <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt&logoColor=white" alt="Nuxt.js" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
