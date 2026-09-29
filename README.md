@@ -38,7 +38,7 @@
 - SaaS architecture for multi-tenant apps
 
 ### 💬 Ask me about
-`WordPress` · `Laravel` · `Vue` / `Nuxt.js` · `Next.js` · `TypeScript` · `PHP` · `React Native` · `Flutter` · `iOS` · `Android` · `On-page SEO` · `AI GEO` · `Schema / structured data` · page speed · staging → production workflows
+`WordPress` · `WooCommerce` · `Elementor` · `ACF` · `Gutenberg` · `Gravity Forms` · `Laravel` · `Vue` / `Nuxt.js` · `Next.js` · `TypeScript` · `PHP` · `React Native` · `Flutter` · `iOS` · `Android` · `JWT` · `Google login` · `2FA` · `Webhooks` · `Cookie consent` · `On-page SEO` · `AI GEO` · `Schema / structured data` · page speed · staging → production workflows
 
 ---
 
@@ -52,6 +52,11 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+  <img src="https://img.shields.io/badge/WooCommerce-7F54B3?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce" />
+  <img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor" />
+  <img src="https://img.shields.io/badge/ACF-00D084?style=for-the-badge&logo=wordpress&logoColor=white" alt="ACF" />
+  <img src="https://img.shields.io/badge/Gutenberg-0073AA?style=for-the-badge&logo=wordpress&logoColor=white" alt="Gutenberg" />
+  <img src="https://img.shields.io/badge/Gravity_Forms-F15A29?style=for-the-badge&logo=wordpress&logoColor=white" alt="Gravity Forms" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue" />
@@ -68,6 +73,11 @@
   <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+  <img src="https://img.shields.io/badge/Google_login-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google login" />
+  <img src="https://img.shields.io/badge/2FA-5B2C6F?style=for-the-badge&logo=googleauthenticator&logoColor=white" alt="2FA" />
+  <img src="https://img.shields.io/badge/Webhooks-111111?style=for-the-badge&logo=ifttt&logoColor=white" alt="Webhooks" />
+  <img src="https://img.shields.io/badge/Cookie_consent-1F8A70?style=for-the-badge&logoColor=white" alt="Cookie consent" />
   <img src="https://img.shields.io/badge/On--page_SEO-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="On-page SEO" />
   <img src="https://img.shields.io/badge/AI_GEO-111111?style=for-the-badge&logo=googlegemini&logoColor=white" alt="AI GEO" />
   <img src="https://img.shields.io/badge/Schema_%2F_structured_data-0B3D91?style=for-the-badge&logo=json&logoColor=white" alt="Schema / structured data" />
