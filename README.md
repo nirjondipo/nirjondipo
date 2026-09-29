@@ -1,15 +1,29 @@
+<div align="center">
+
 # Hi, I'm Md Solaiman 👋
+
+**Full-Stack Developer** · **WebDGallery** · Bangladesh
+
+12+ years building scalable, high-performance web apps for clinics, agencies, and SaaS products.
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=nirjondipo&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <a href="https://github.com/nirjondipo?tab=repositories"><img src="https://img.shields.io/badge/GitHub-nirjondipo-181717?style=flat&logo=github" alt="GitHub" /></a>
-  <img src="https://img.shields.io/badge/Location-Bangladesh-green?style=flat&logo=googlemaps" alt="Location" />
-  <img src="https://img.shields.io/badge/Company-WebDGallery-blue?style=flat" alt="Company" />
+  <a href="https://github.com/nirjondipo"><img src="https://img.shields.io/badge/GitHub-nirjondipo-181717?style=flat&logo=github" alt="GitHub" /></a>
+  <img src="https://img.shields.io/badge/Location-Bangladesh-148F77?style=flat&logo=googlemaps&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/Company-WebDGallery-2563EB?style=flat" alt="Company" />
+  <a href="mailto:nirjondipo@gmail.com"><img src="https://img.shields.io/badge/Email-nirjondipo%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-**Full-Stack Developer** at **WebDGallery** · 12+ years building scalable, high-performance web apps for clinics, agencies, and SaaS products.
+<p>
+  <a href="https://www.upwork.com/freelancers/~01da2982e531013221">
+    <img src="https://img.shields.io/badge/Upwork-Available%20for%20hire-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Hire me on Upwork" />
+  </a>
+  <a href="mailto:nirjondipo@gmail.com">
+    <img src="https://img.shields.io/badge/Projects-Email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email for projects" />
+  </a>
+</p>
 
-I turn client briefs into production sites and products — WordPress when that fits, and modern TypeScript / Vue / Next.js stacks when the product needs it.
+</div>
 
 ---
 
@@ -30,11 +44,11 @@ I turn client briefs into production sites and products — WordPress when that 
 
 ### 🛠️ Languages & tools
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=php,wordpress,js,ts,vue,nuxtjs,react,nextjs,nodejs,html,css,tailwind,mysql,postgres,docker,git,github,linux" alt="Skills" />
 </p>
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -55,14 +69,14 @@ I turn client briefs into production sites and products — WordPress when that 
 
 ### 📊 GitHub stats
 
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=nirjondipo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirjondipo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-</p>
-
-<p>
+<div align="center">
+  <img height="165" src="https://github-readme-stats2.vercel.app/api?username=nirjondipo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nirjondipo&theme=tokyo_night" alt="Top languages" />
+  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nirjondipo&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
+  <br/>
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nirjondipo&theme=tokyo_night" alt="Profile details" />
+</div>
 
 ---
 
@@ -73,9 +87,18 @@ Open to interesting full-stack and WordPress performance projects.
 
 ---
 
-### 📫 Connect
-- GitHub: [github.com/nirjondipo](https://github.com/nirjondipo)
-- Company: **WebDGallery**
-- Location: Bangladesh
+### 📫 Connect / hire me
 
-<!-- Add LinkedIn / website here when you want them public -->
+| | |
+|:--|:--|
+| **Email (projects)** | [nirjondipo@gmail.com](mailto:nirjondipo@gmail.com) |
+| **Upwork** | [Hire me on Upwork](https://www.upwork.com/freelancers/~01da2982e531013221) |
+| **GitHub** | [github.com/nirjondipo](https://github.com/nirjondipo) |
+| **Company** | WebDGallery |
+| **Location** | Bangladesh |
+
+<p align="center">
+  <a href="https://www.upwork.com/freelancers/~01da2982e531013221">
+    <img src="https://img.shields.io/badge/Hire%20me%20on-Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Hire me on Upwork" />
+  </a>
+</p>
