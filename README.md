@@ -14,10 +14,30 @@
   <a href="mailto:nirjondipo@gmail.com"><img src="https://img.shields.io/badge/Email-nirjondipo%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.upwork.com/freelancers/~01da2982e531013221">
+        <img src="assets/upwork-portrait.svg" width="120" height="120" alt="Md S." />
+      </a>
+      <h3>Md S.</h3>
+      <p><strong>Full-Stack Developer (Laravel/Vue.js/Nuxt) | WordPress Expert</strong></p>
+      <p>
+        <img src="https://img.shields.io/badge/100%25_job_success-1F6FEB?style=flat-square" alt="100% job success" />
+        <img src="https://img.shields.io/badge/Top_Rated-1F6FEB?style=flat-square" alt="Top Rated" />
+        <img src="https://img.shields.io/badge/5.0_(122)-E3B341?style=flat-square" alt="5.0 (122 reviews)" />
+      </p>
+      <p>📍 Dhaka, Bangladesh</p>
+      <p>
+        <a href="https://www.upwork.com/freelancers/~01da2982e531013221">
+          <img src="https://img.shields.io/badge/Hire%20me%20on-Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Hire me on Upwork" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
 <p>
-  <a href="https://www.upwork.com/freelancers/~01da2982e531013221">
-    <img src="https://img.shields.io/badge/Upwork-Available%20for%20hire-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Hire me on Upwork" />
-  </a>
   <a href="mailto:nirjondipo@gmail.com">
     <img src="https://img.shields.io/badge/Projects-Email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email for projects" />
   </a>
@@ -116,9 +136,3 @@ Open to interesting full-stack and WordPress performance projects.
 | **GitHub** | [github.com/nirjondipo](https://github.com/nirjondipo) |
 | **Company** | WebDGallery |
 | **Location** | Bangladesh |
-
-<p align="center">
-  <a href="https://www.upwork.com/freelancers/~01da2982e531013221">
-    <img src="https://img.shields.io/badge/Hire%20me%20on-Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Hire me on Upwork" />
-  </a>
-</p>
