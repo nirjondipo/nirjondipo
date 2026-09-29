@@ -23,10 +23,10 @@ I turn client briefs into production sites and products — WordPress and custom
 ### Selected work (ask for demos — many client repos are private)
 | Area | Examples |
 |------|----------|
-| Healthcare / clinic sites | Harley Street Orthodontics staging, Pinnacle Dental Group, related UK clinic builds |
-| SaaS | **WebD Chat** — multi-tenant WhatsApp, Instagram & Messenger platform |
-| Commerce / brand sites | Dalance (Nuxt), AOA marketing site, and other client front-ends |
-| Tools & dashboards | POS / directory / trading-signal style apps |
+| Healthcare / clinic sites | Clinic websites, including staging and production builds |
+| SaaS | Multi-tenant messaging platforms |
+| Commerce / brand sites | Marketing sites and client storefronts |
+| Tools & dashboards | POS, directory, and dashboard-style apps |
 
 ---
 
