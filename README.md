@@ -70,8 +70,10 @@
 ### 📊 GitHub stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats2.vercel.app/api?username=nirjondipo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nirjondipo&theme=tokyo_night" alt="GitHub stats" />
   <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nirjondipo&theme=tokyo_night" alt="Top languages" />
+  <br/>
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nirjondipo&theme=tokyo_night" alt="Most commit language" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nirjondipo&theme=tokyonight&hide_border=true" alt="GitHub streak" />
   <br/>
