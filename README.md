@@ -38,14 +38,14 @@
 - SaaS architecture for multi-tenant apps
 
 ### 💬 Ask me about
-`WordPress` · `Vue` / `Nuxt` · `Next.js` · `TypeScript` · `PHP` · page speed · staging → production workflows
+`WordPress` · `Vue` / `Nuxt` · `Next.js` · `TypeScript` · `PHP` · `React Native` · `Flutter` · `iOS` · `Android` · page speed · staging → production workflows
 
 ---
 
 ### 🛠️ Languages & tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,wordpress,js,ts,vue,nuxtjs,react,nextjs,nodejs,html,css,tailwind,mysql,postgres,docker,git,github,linux" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=php,wordpress,js,ts,vue,nuxtjs,react,nextjs,flutter,apple,androidstudio,nodejs,html,css,tailwind,mysql,postgres,docker,git,github,linux" alt="Skills" />
 </p>
 
 <p align="center">
@@ -56,6 +56,10 @@
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue" />
   <img src="https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxt&logoColor=white" alt="Nuxt" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
